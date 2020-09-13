@@ -1,34 +1,18 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `CovidThesis`,
+    name: `CovidThesis`,
+    siteUrl: `http://covidthesis.com`,
+    description: `Supplement for Thesis: Travel Disruption during Covid-19`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Welcome to the supporting interactive web page for MSc. thesis: Travel Disruption during Covid-19.`,
       maxWidth: 652,
     },
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/narative`,
-      },
-      {
         name: `github`,
-        url: `https://github.com/narative`,
-      },
-      {
-        name: `instagram`,
-        url: `https://instagram.com/narative.co`,
-      },
-      {
-        name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
-      },
+        url: `https://github.com/RebecaApostu/CovidThesis`,
+      }
     ],
   },
   plugins: [
