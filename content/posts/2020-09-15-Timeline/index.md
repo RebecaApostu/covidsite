@@ -4,7 +4,7 @@ author: Rebeca Apostu
 date: 2020-09-15
 excerpt: Interactive timeline showcasing international news stories and the
   effect of cancellations on Airbnb in Copenhagen.
-hero: ./images/hero.jpg
+hero: images/screenshot-2020-08-23-at-18.07.12.png
 ---
 My first post using `@narative/gatsby-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
 
