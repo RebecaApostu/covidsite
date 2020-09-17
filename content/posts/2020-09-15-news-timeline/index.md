@@ -1,5 +1,5 @@
 ---
-title: News Timeline2
+title: Market Level Effects
 author: Aurora Beres
 date: 2020-09-15
 excerpt: Interactive timeline showcasing international news stories and the
