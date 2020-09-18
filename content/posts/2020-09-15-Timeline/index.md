@@ -6,6 +6,10 @@ excerpt: Interactive timeline showcasing international news stories and the
   effect of cancellations on Airbnb in Copenhagen.
 hero: images/screenshot-2020-08-23-at-18.07.12.png
 ---
+The final version of interactive timeline can be accessed [here](https://rebecaapostu.github.io/CovidNewsTimeline/?fbclid=IwAR3jIaxB_DCTmtbCRvJIHqh4EmUSADMzEV6fdECJYXiQOPoNr-fOqQtsM1c). 
+
+
+
 My first post using `@narative/gatsby-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
 
 ## Headers
@@ -82,8 +86,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
-
-
 
 ```
 No language indicated, so no syntax highlighting.
