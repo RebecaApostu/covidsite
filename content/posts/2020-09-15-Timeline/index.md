@@ -27,7 +27,7 @@ Done in a threefold process that entailed:
 * Narrowing the search of official COVID-19 related news to two main aspects: *travel restrictions* and *lockdown measures*.
 * Sampling official news sources with highest circulation. 
 
-Prior to sampling news data to include in the timeline, 
+
 
 ### Adding cancellations data
 
