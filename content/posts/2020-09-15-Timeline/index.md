@@ -6,25 +6,19 @@ excerpt: Interactive timeline showcasing international news stories and the
   effect on cancellations of Airbnb bookings in Copenhagen.
 hero: images/screenshot-2020-08-23-at-18.07.12.png
 ---
+The interactive timeline showcases international news stories and the effect on cancellations of Airbnb bookings in Copenhagen. It was built as part of the research for the MSc. Thesis Travel Disruption during Covid-19, at the IT University of Copenhagen, as part of the Digital Innovation and Management programme. 
+
 The timeline is designed as an interactive prototype, displaying official news from five selected countries, booking cancellation peaks during the COVID-19 timeframe, and the Airbnb response to the events. The final version of the interactive timeline can be accessed via Codepen [here](https://rebecaapostu.github.io/CovidNewsTimeline/?fbclid=IwAR3jIaxB_DCTmtbCRvJIHqh4EmUSADMzEV6fdECJYXiQOPoNr-fOqQtsM1c). 
-
-
 
 ## Building the timeline
 
-# H1
+### Collecting the news 
 
-It is recommended to NOT use H1s as it is reserved for the article heading. Any H1 is set as an H2.
+##### Adding cancellations data
 
-## H2
+###### Integrating Airbnb's response 
 
-### H3
-
-#### H4
-
-##### H5
-
-###### H6
+### Findings
 
 ## Emphasis
 
