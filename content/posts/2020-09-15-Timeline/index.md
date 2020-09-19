@@ -12,13 +12,23 @@ The timeline is designed as an interactive prototype, displaying official news f
 
 ## Building the timeline
 
+To reach the final timeline version, the following steps were followed in a gradual manner: 
+
 ### Collecting the news
+
+Done in a threefold process that entailed: 
+
+* Identifying the most top countries where the highest number of bookings in Copenhagen originate from. 
+
+![](images/screenshot-2020-08-14-at-13.38.26.png "Booking Origin Location")
+
+
+
+Prior to sampling news data to include in the timeline, 
 
 ### Adding cancellations data
 
 ### Integrating Airbnb's response
-
-
 
 The prototype comes as a result of the research for the MSc. Thesis: Travel Disruption during COVID-19, conducted at the IT University of Copenhagen, as part of the Digital Innovation and Management programme. 
 
