@@ -16,6 +16,16 @@ To reach the final timeline version, the following steps were followed in a grad
 
 ### Collecting the news
 
+Done in a threefold process that entailed: 
+
+* Identifying the most top countries where the highest number of bookings in Copenhagen originate from. 
+
+![](images/screenshot-2020-08-14-at-13.38.26.png "Booking Origin Location")
+
+
+
+Prior to sampling news data to include in the timeline, 
+
 ### Adding cancellations data
 
 ### Integrating Airbnb's response
