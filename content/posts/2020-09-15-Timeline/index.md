@@ -27,6 +27,12 @@ Done in a threefold process that entailed:
 * Narrowing the search of official COVID-19 related news to two main aspects: *travel restrictions* and *lockdown measures*.
 * Sampling official news sources with highest circulation. 
 
+The selected pieces of news were then set on a timeline, in chronological order. 
+
+![](images/screenshot-2020-08-22-at-22.41.43.png "News added to timeline")
+
+
+
 
 
 ### Adding cancellations data
@@ -34,6 +40,10 @@ Done in a threefold process that entailed:
 
 
 ### Integrating Airbnb's response
+
+
+
+
 
 
 
@@ -80,8 +90,6 @@ Some text to show that the reference links can follow later.
     alt="Alt text"
   />
 </div>
-
-
 
 ## Blockquotes
 
