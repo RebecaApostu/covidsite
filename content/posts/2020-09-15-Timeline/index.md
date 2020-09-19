@@ -31,7 +31,11 @@ Done in a threefold process that entailed:
 
 ### Adding cancellations data
 
+
+
 ### Integrating Airbnb's response
+
+
 
 The prototype comes as a result of the research for the MSc. Thesis: Travel Disruption during COVID-19, conducted at the IT University of Copenhagen, as part of the Digital Innovation and Management programme. 
 
@@ -77,31 +81,7 @@ Some text to show that the reference links can follow later.
   />
 </div>
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 
-## Code and Syntax Highlighting
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
-
-```
-No language indicated, so no syntax highlighting.
-But let's throw in a <b>tag</b>.
-```
-
-### JSX
-
-```jsx
-import React from "react";
-import { ThemeProvider } from "theme-ui";
-import theme from "./theme";
-
-export default props => (
-  <ThemeProvider theme={theme}>{props.children}</ThemeProvider>
-);
-```
 
 ## Blockquotes
 
