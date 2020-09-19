@@ -20,7 +20,9 @@ Done in a threefold process that entailed:
 
 * Geolocating the booking origin locations to determine the top locations guests travelling to Copenhagen booked from. The mapped guest's locations can be accessed in an interactive format through this link. 
 
-  The top booking origin countries referred to United States, United Kingdom and Germany. Apart from countries with highest booking numbers, local news related to Denmark were included on the timeline, alongside with news related to China, as the first country to communicate signs of COVID-19. 
+  The top countries where the highest number of bookings in Copenhagen originate from are United States, United Kingdom and Germany. 
+
+  Apart from countries with highest booking numbers, local news related to Denmark were included on the timeline, alongside with news related to China, as the first country to experience signs of COVID-19. 
 
 ![](images/screenshot-2020-08-14-at-13.38.26.png "Booking Origin Location")
 
@@ -44,15 +46,7 @@ Combined emphasis with **asterisks and *underscores***.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
-## Lists
 
-1. First ordered list item
-2. Another item
-3. Actual numbers don't matter, just that it's a number
-
-* Unordered list can use asterisks
-* Or minuses
-* Or pluses
 
 ## Links
 
