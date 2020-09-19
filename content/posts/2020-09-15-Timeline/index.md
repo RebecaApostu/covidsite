@@ -8,7 +8,7 @@ hero: images/screenshot-2020-08-23-at-18.07.12.png
 ---
 The above timeline sets to explore the COVID-19 timeframe at a granular level, from the perspective of international news stories and the potential effect on cancellations of Airbnb bookings in Copenhagen. 
 
-The timeline is designed as an interactive prototype, displaying official news from five selected countries, booking cancellation peaks during the COVID-19 timeframe, and the Airbnb response to the events. The final version of the interactive timeline can be accessed via Codepen [here](https://rebecaapostu.github.io/CovidNewsTimeline/?fbclid=IwAR3jIaxB_DCTmtbCRvJIHqh4EmUSADMzEV6fdECJYXiQOPoNr-fOqQtsM1c). 
+The timeline is designed as an interactive prototype, displaying official news from five selected countries, booking cancellation peaks during the COVID-19 timeframe, and the Airbnb response to the events. The final version of the interactive timeline can be accessed via Github [here](https://rebecaapostu.github.io/CovidNewsTimeline/?fbclid=IwAR3jIaxB_DCTmtbCRvJIHqh4EmUSADMzEV6fdECJYXiQOPoNr-fOqQtsM1c). 
 
 ## Building the timeline
 
@@ -18,11 +18,13 @@ To reach the final timeline version, the following steps were followed in a grad
 
 Done in a threefold process that entailed: 
 
-* Geolocating the booking origin locations to determine the top locations guests travelling to Copenhagen booked from. The mapped guest's locations can be accessed in an interactive format through this link. 
+* Geolocating the booking origin locations to determine the top locations guests travelling to Copenhagen booked from (United States, United Kingdom and Germany). The mapped guest's locations can be accessed in an interactive format through this [link](https://rebecaapostu.github.io/GuestMap/index.html). 
 
-  The top booking origin countries referred to United States, United Kingdom and Germany. Apart from countries with highest booking numbers, local news related to Denmark were included on the timeline, alongside with news related to China, as the first country to communicate signs of COVID-19. 
+  Apart from countries with highest booking numbers, local news related to Denmark were included on the timeline, alongside with news related to China, as the first country to experience signs of COVID-19. 
 
 ![](images/screenshot-2020-08-14-at-13.38.26.png "Booking Origin Location")
+
+*
 
 Prior to sampling news data to include in the timeline, 
 
@@ -43,16 +45,6 @@ Strong emphasis, aka bold, with **asterisks** or **underscores**.
 Combined emphasis with **asterisks and *underscores***.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
-
-## Lists
-
-1. First ordered list item
-2. Another item
-3. Actual numbers don't matter, just that it's a number
-
-* Unordered list can use asterisks
-* Or minuses
-* Or pluses
 
 ## Links
 
