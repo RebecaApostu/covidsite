@@ -18,11 +18,11 @@ To reach the final timeline version, the following steps were followed in a grad
 
 Done in a threefold process that entailed: 
 
-* Identifying the most top countries where the highest number of bookings in Copenhagen originate from. 
+* Geolocating the booking origin locations to determine the top locations guests travelling to Copenhagen booked from. The mapped guest's locations can be accessed in an interactive format through this link. 
+
+
 
 ![](images/screenshot-2020-08-14-at-13.38.26.png "Booking Origin Location")
-
-
 
 Prior to sampling news data to include in the timeline, 
 
