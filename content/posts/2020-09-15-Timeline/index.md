@@ -18,11 +18,11 @@ To reach the final timeline version, the following steps were followed in a grad
 
 Done in a threefold process that entailed: 
 
-1. Geolocating the booking origin locations to determine the top locations guests travelling to Copenhagen booked from. The mapped guest's locations can be accessed in an interactive format through this [link](https://rebecaapostu.github.io/GuestMap/index.html). 
-
-   The top countries where the highest number of bookings in Copenhagen originate from are United States, United Kingdom and Germany. 
+1. Geolocating the booking origin locations to determine the top locations guests travelling to Copenhagen booked from (United States, United Kingdom and Germany). The mapped guest's locations can be accessed in an interactive format through this [link](https://rebecaapostu.github.io/GuestMap/index.html). 
 
    Apart from countries with highest booking numbers, local news related to Denmark were included on the timeline, alongside with news related to China, as the first country to experience signs of COVID-19. 
+
+
 
 ![](images/screenshot-2020-08-14-at-13.38.26.png "Booking Origin Location")
 
