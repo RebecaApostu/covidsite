@@ -8,7 +8,7 @@ hero: images/screenshot-2020-08-23-at-18.07.12.png
 ---
 The above timeline sets to explore the COVID-19 timeframe at a granular level, from the perspective of international news stories and the potential effect on cancellations of Airbnb bookings in Copenhagen. 
 
-The timeline is designed as an interactive prototype, displaying official news from five selected countries, booking cancellation peaks during the COVID-19 timeframe, and the Airbnb response to the events. The final version of the interactive timeline can be accessed via Codepen [here](https://rebecaapostu.github.io/CovidNewsTimeline/?fbclid=IwAR3jIaxB_DCTmtbCRvJIHqh4EmUSADMzEV6fdECJYXiQOPoNr-fOqQtsM1c). 
+The timeline is designed as an interactive prototype, displaying official news from five selected countries, booking cancellation peaks during the COVID-19 timeframe, and the Airbnb response to the events. The final version of the interactive timeline can be accessed via Github [here](https://rebecaapostu.github.io/CovidNewsTimeline/?fbclid=IwAR3jIaxB_DCTmtbCRvJIHqh4EmUSADMzEV6fdECJYXiQOPoNr-fOqQtsM1c). 
 
 ## Building the timeline
 
@@ -22,9 +22,11 @@ Done in a threefold process that entailed:
 
    Apart from countries with highest booking numbers, local news related to Denmark were included on the timeline, alongside with news related to China, as the first country to experience signs of COVID-19. 
 
-
-
 ![](images/screenshot-2020-08-14-at-13.38.26.png "Booking Origin Location")
+
+
+
+
 
 Prior to sampling news data to include in the timeline, 
 
