@@ -10,13 +10,7 @@ The timeline is designed as an interactive prototype, displaying official news f
 
 
 
-
-
-
-
-My first post using `@narative/gatsby-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
-
-## Headers
+## Building the timeline
 
 # H1
 
