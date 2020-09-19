@@ -3,7 +3,7 @@ title: News Timeline
 author: Rebeca Apostu
 date: 2020-09-15
 excerpt: Interactive timeline showcasing international news stories and the
-  effect of cancellations on Airbnb in Copenhagen.
+  effect on cancellations of Airbnb bookings in Copenhagen.
 hero: images/screenshot-2020-08-23-at-18.07.12.png
 ---
 The final version of interactive timeline can be accessed [here](https://rebecaapostu.github.io/CovidNewsTimeline/?fbclid=IwAR3jIaxB_DCTmtbCRvJIHqh4EmUSADMzEV6fdECJYXiQOPoNr-fOqQtsM1c). 
