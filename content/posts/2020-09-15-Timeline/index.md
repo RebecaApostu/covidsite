@@ -66,7 +66,7 @@ The news narrative surrounding the first peak on March 14th, reveals **Denmark's
 
 ''*While it might seem evident that the lockdown of the destination country factor, followed by the borders closure might have such an impact, what is intriguing is the fast reaction time of the travellers in cancelling their bookings (ibid).*''
 
-As for the other cancellation peaks, the 30th of March is explained through **external travel restrictions** - such as the recent announcement on Germany's lockdown and UK's official advise for their citizens to avoid any type of travel.  
+As for the other cancellation peaks, the 30th of March is explained through **external travel restrictions** - such as the recent announcement on Germany's lockdown and UK's official advise for their citizens to avoid any type of travel. 
 
 Another factor seen as significant towards the third cancellation peak relates to the **Danish limited border opening** and the 6 nights stay requirement for travellers, announced for the 15th of June. It is seen to have influenced travellers that did not fit the criteria to cancel their travel booking.
 
@@ -74,7 +74,7 @@ Given that news were collected up until end June, no factors have been identifie
 
 **Airbnb's response**
 
-The insights obtained through compelling Airbnb's response on the timeline referred to the strategies the platform took in adapting their extenuating circumstance policy to the COVID-19 context, allowing traveler's to receive refunds on their booking if unable to travel.  
+The insights obtained through compelling Airbnb's response on the timeline referred to the strategies the platform took in adapting their extenuating circumstance policy to the COVID-19 context, allowing travellers to receive refunds on their booking if unable to travel.  
 
 '*'Through the timeline analysis we observed that, in most cases, there is a 0-1 days interval of time between official news and the decision to cancel the booking. This allows platforms such as Airbnb little time to react and adapt, when a disruption of this scale occurs (ibid).''*
 
