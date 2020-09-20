@@ -16,7 +16,7 @@ The timeline is designed as an interactive prototype, displaying official news f
 
 To reach the final timeline version, the following steps were followed in a gradual manner: 
 
-### Collecting the news
+### 1. Collecting the news
 
 Done in a threefold process that entailed: 
 
@@ -33,11 +33,11 @@ The selected pieces of news were then set on a timeline, in chronological order.
 
 ![](images/screenshot-2020-08-22-at-22.41.43.png "News added to timeline")
 
-### Adding cancellations data
+### 2. Adding cancellations data
 
 Next, the main bookings dataset has been sampled to include the bookings marked as 'cancelled'. The data was then crossed with the official news collected and set on the same timeline.  
 
-### Integrating Airbnb's response
+### 3. Integrating Airbnb's response
 
 The final version of the timeline was reached by adding the available online new data related to Airbnb's response to the COVID-19 outbreak. 
 
