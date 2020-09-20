@@ -35,13 +35,13 @@ The selected pieces of news were then set on a timeline, in chronological order.
 
 ### 2. Adding cancellations data
 
-Next, the main bookings dataset has been sampled to only include the bookings marked as 'cancelled'. The data was then crossed with the official news collected and set on the same timeline.  
+Next, the main bookings dataset has been sampled to only include the bookings marked as 'cancelled'. The data was then crossed with the official news data and set on the same timeline.  
 
 ![](images/screenshot-2020-09-19-at-21.49.07.png "Timeline of News versus Cancellations")
 
 ### 3. Integrating Airbnb's response
 
-The final version of the timeline was reached by adding the available online news data related to Airbnb's response to the COVID-19 outbreak. 
+The final version of the timeline was reached by adding the available online communication related to Airbnb's response to the COVID-19 outbreak. 
 
 ### Findings
 
