@@ -16,27 +16,37 @@ The timeline is designed as an interactive prototype, displaying official news f
 
 To reach the final timeline version, the following steps were followed in a gradual manner: 
 
-### Collecting the news
+### 1. Collecting the news
 
 Done in a threefold process that entailed: 
 
-* Geolocating the booking origin to determine the top locations guests travelling to Copenhagen booked from (United States, United Kingdom and Germany). The mapped guest's locations can be accessed in an interactive format through this [link](https://rebecaapostu.github.io/GuestMap/index.html). 
+* Geolocating the booking origin to identify the top locations guests travelling to Copenhagen booked from (United States, United Kingdom and Germany). The mapped guest's locations can be accessed in an interactive format through this [link](https://rebecaapostu.github.io/GuestMap/index.html). 
 
   Apart from countries with highest booking numbers, local news related to Denmark were included on the timeline, alongside with news related to China, as the first country to experience signs of COVID-19. 
 
 ![](images/screenshot-2020-08-14-at-13.38.26.png "Booking Origin Location")
 
 * Narrowing the search of official COVID-19 related news to two main aspects: ***travel restrictions*** and ***lockdown measures***.
-* Sampling official news sources with highest circulation. 
+* Collecting relevant pieces of official news, from sources with highest circulation. 
 
 The selected pieces of news were then set on a timeline, in chronological order. 
 
 ![](images/screenshot-2020-08-22-at-22.41.43.png "News added to timeline")
 
-### Adding cancellations data
+### 2. Adding cancellations data
 
-### Integrating Airbnb's response
+Next, the main bookings dataset has been sampled to only include the bookings marked as 'cancelled'. The data was then crossed with the official news collected and set on the same timeline.  
 
-The prototype comes as a result of the research for the MSc. Thesis: Travel Disruption during COVID-19, conducted at the IT University of Copenhagen, as part of the Digital Innovation and Management programme. 
+![](images/screenshot-2020-09-19-at-21.49.07.png "Timeline of News versus Cancellations")
+
+
+
+### 3. Integrating Airbnb's response
+
+The final version of the timeline was reached by adding the available online new data related to Airbnb's response to the COVID-19 outbreak. 
+
+
 
 ### Findings
+
+The prototype comes as a result of the research for the MSc. Thesis: Travel Disruption during COVID-19, conducted at the IT University of Copenhagen, as part of the Digital Innovation and Management programme.
