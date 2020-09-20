@@ -49,7 +49,7 @@ The final version of the timeline was reached by adding the available online com
 
 ### Findings
 
-Combining the official news with the cancellations levels recorded per day on the timeline offered an overview on the unfolding of events that might have an influence on the traveler's decision towards their booking.
+Combining the official news with the cancellations levels recorded per day on the timeline offered an overview on the unfolding of events that might have had an influence on the traveler's decision towards their booking.
 
 *''We begin observing an unusual increase in cancellation levels starting with March 11th. We have determined that it might be caused by a **fear of travel over health concerns factor**, given the recent global pandemic declaration by WHO, and the US announcement on imposing a **travel restriction** from the EU (Apostu & Beres, 2020).''* 
 
@@ -69,3 +69,5 @@ Analysing the time connections between the peaks in bookings cancellations and o
 The news narrative surrounding the first peak on March 14th, reveals **Denmark's lockdown and borders closure announcement** on the day before as the main factor for the unprecedented level of cancellations. 
 
 ''*While it might seem evident that the lockdown of the destination country factor, followed by the borders closure might have such an impact, what is intriguing is the fast reaction time of the travellers in cancelling their bookings (ibid).*''
+
+As for the other cancellation peaks, the 30th of March is interpreted to be a consequence of **external travel restrictions** - such as Germany's lockdown and UK's official advise for their citizens to avoid any type of travel.  Another factor identified as significant relates to the **Danish borders opening** announced for the 15th of June. As the border opening only allowed a very limited number of countries and a 6 nights minimum stay requirement was in place, it is seen to have driven the behaviour of traveler's that did not fit the criteria to cancel their travel booking.
