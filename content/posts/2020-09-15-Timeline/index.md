@@ -27,13 +27,17 @@ Done in a threefold process that entailed:
 ![](images/screenshot-2020-08-14-at-13.38.26.png "Booking Origin Location")
 
 * Narrowing the search of official COVID-19 related news to two main aspects: ***travel restrictions*** and ***lockdown measures***.
-* Sampling official news sources with highest circulation. 
+* Collecting relevant pieces of official news, from sources with highest circulation. 
 
 The selected pieces of news were then set on a timeline, in chronological order. 
 
 ![](images/screenshot-2020-08-22-at-22.41.43.png "News added to timeline")
 
 ### Adding cancellations data
+
+
+
+
 
 ### Integrating Airbnb's response
 
