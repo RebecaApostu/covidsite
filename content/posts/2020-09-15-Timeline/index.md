@@ -49,8 +49,11 @@ The final version of the timeline was reached by adding the available online com
 
 ### Findings
 
-Having combined the official news with the cancellations levels recorded per day on the timeline offered an overview of the time connection between the two. 
+Having combined the official news with the cancellations levels recorded per day on the timeline offers and overview on the unfolding of events that might have an influence on the traveler's decision towards their booking.
 
+Firstly, it becomes noticeable that the cancellation levels occur over four major peaks in the COVID-19 timeframe. 
 
-
->
+* ***14th of March,*** contained inacluster of daily cancellations from 11th to the 17th of March 2020
+* ***30th of March***
+* **June 11th** 
+* **July 9th**
