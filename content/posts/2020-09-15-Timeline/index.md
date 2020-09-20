@@ -16,7 +16,7 @@ The final version of the interactive timeline can be accessed via Github [here](
 
 ## Building the timeline
 
-To reach the final timeline version, three main steps in adding the data were followed in a gradual manner: 
+To reach the final timeline version, three main steps in adding the data were gradually followed: 
 
 ### 1. Collecting the news
 
