@@ -60,8 +60,6 @@ Following the first observed effects, it becomes noticeable that the cancellatio
 * **June 11th** 
 * **July 9th**
 
-
-
 **News Stories Effect**
 
 Analysing the time connections between the peaks in bookings cancellations and official news, a few potential factors are identified as influential in driving this particular behaviour. 
