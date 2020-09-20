@@ -62,6 +62,6 @@ Firstly, it becomes noticeable that the cancellation levels occur over four majo
 
 
 
-> `We begin noticing an unusual increase in cancellation levels starting with March 11th. We have determined that they might be caused by a fear of travel over health concerns factor, given the recent global pandemic declaration by WHO, and the US announcement of banning travel from the EU (Apostu & Beres, 2020).`
+> `We begin noticing an unusual increase in cancellation levels starting with March 11th. We have determined that it might be caused by a fear of travel over health concerns factor, given the recent global pandemic declaration by WHO, and the US announcement of banning travel from the EU (Apostu & Beres, 2020).`
 
 ` `
