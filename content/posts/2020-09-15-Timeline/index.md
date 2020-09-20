@@ -10,9 +10,9 @@ hero: images/screenshot-2020-09-19-at-21.49.07.png
 
 *This article explains the process of creating the timeline analysis and extracting subsequent findings, as part of the MSc. Thesis: "Travel Disruption during COVID-19: An exploratory data analysis on Airbnb in Copenhagen"* 
 
-The above timeline sets to explore the COVID-19 timeframe at a granular level, from the perspective of international news stories related to the event, and the potential effect on cancellations of Airbnb bookings in Copenhagen. 
+The timeline is designed as an interactive prototype, displaying official news from five selected countries, booking cancellation peaks during the COVID-19 timeframe, and the Airbnb response to the events. It sets to explore the COVID-19 timeframe at a granular level, from the perspective of international news stories related to the event, and the potential effect on cancellations of Airbnb bookings in Copenhagen. 
 
-The timeline is designed as an interactive prototype, displaying official news from five selected countries, booking cancellation peaks during the COVID-19 timeframe, and the Airbnb response to the events. The final version of the interactive timeline can be accessed via Github [here](https://rebecaapostu.github.io/CovidNewsTimeline/?fbclid=IwAR3jIaxB_DCTmtbCRvJIHqh4EmUSADMzEV6fdECJYXiQOPoNr-fOqQtsM1c). 
+The final version of the interactive timeline can be accessed via Github [here](https://rebecaapostu.github.io/CovidNewsTimeline/?fbclid=IwAR3jIaxB_DCTmtbCRvJIHqh4EmUSADMzEV6fdECJYXiQOPoNr-fOqQtsM1c). 
 
 ## Building the timeline
 
@@ -51,17 +51,11 @@ The final version of the timeline was reached by adding the available online com
 
 Having combined the official news with the cancellations levels recorded per day on the timeline offers and overview on the unfolding of events that might have an influence on the traveler's decision towards their booking.
 
+*''We begin observing an unusual increase in cancellation levels starting with March 11th. We have determined that it might be caused by a fear of travel over health concerns factor, given the recent global pandemic declaration by WHO, and the US announcement of banning travel from the EU (Apostu & Beres, 2020).''* 
 
+Following the first effects, it becomes noticeable that the cancellation levels occur over four major peaks in the COVID-19 timeframe. 
 
-Firstly, it becomes noticeable that the cancellation levels occur over four major peaks in the COVID-19 timeframe. 
-
-* ***14th of March,*** contained inacluster of daily cancellations from 11th to the 17th of March 2020
+* ***14th of March,*** contained in a cluster of daily cancellations from 11th to the 17th of March 2020
 * ***30th of March***
 * **June 11th** 
 * **July 9th**
-
-
-
-> `We begin noticing an unusual increase in cancellation levels starting with March 11th. We have determined that it might be caused by a fear of travel over health concerns factor, given the recent global pandemic declaration by WHO, and the US announcement of banning travel from the EU (Apostu & Beres, 2020).`
-
-` `
