@@ -58,6 +58,8 @@ While observing the first effects on bookings, it becomes noticeable that the ca
 * **June 11th** 
 * **July 9th**
 
+
+
 **News Stories Effect**
 
 Analysing the time connections between the peaks in bookings cancellations and official news, a few potential factors are identified as influential in driving this particular behaviour. 
@@ -73,3 +75,13 @@ As for the other cancellation peaks, the 30th of March is explained through **ex
 Another factor identified as significant towards the third cancellation peak relates to the **Danish borders opening** announced for the 15th of June. As the border opened for a limited number of countries, and a 6 nights minimum stay requirement was in place, it is seen to have driven the behaviour of travellers that did not fit the criteria to cancel their travel booking.
 
 Given that news were collected up until end June, no factors have been identified for the cancellation levels recorded on July 9th.
+
+
+
+**Airbnb's response**
+
+Most news related to Airbnb's approach on the COVID-19 global events referred to the updates of the extenuating circumstance policy, allowing guest's to receive refunds due to inability to travel. However, as the policy has been under constant update, it has not been possible to chronologically trace all the updates, as only the final version is available online. 
+
+The insights obtained through compelling Airbnb's response on the timeline referred to the strategies the platform took in adapting their refund policies to the extraordinary circumstances. 
+
+*''In a broader sense, Airbnb took on the role of mediator between guests and peers to a greater extent due to the nature of the situation (ibid).''*
