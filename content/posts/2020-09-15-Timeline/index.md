@@ -10,7 +10,7 @@ hero: images/screenshot-2020-09-19-at-21.49.07.png
 
 *This article explains the process of creating the timeline analysis and extracting subsequent findings, as part of the MSc. Thesis: "Travel Disruption during COVID-19: An exploratory data analysis on Airbnb in Copenhagen"* 
 
-The timeline is designed as an interactive prototype, displaying official news from five selected countries, booking cancellation peaks during the COVID-19 timeframe, and the Airbnb response to the events. It sets to explore the COVID-19 timeframe at a granular level, from the perspective of international news stories related to the event, and the potential effect on cancellations of Airbnb bookings in Copenhagen. 
+The timeline is designed as an interactive prototype, displaying official news from five selected countries, booking cancellation peaks during the COVID-19 timeframe, and the Airbnb response to the events. It sets to explore the timeframe at a granular level, from the perspective of international news stories related to the event, and the potential effect on cancellations of Airbnb bookings in Copenhagen. 
 
 The final version of the interactive timeline can be accessed via Github [here](https://rebecaapostu.github.io/CovidNewsTimeline/?fbclid=IwAR3jIaxB_DCTmtbCRvJIHqh4EmUSADMzEV6fdECJYXiQOPoNr-fOqQtsM1c). 
 
