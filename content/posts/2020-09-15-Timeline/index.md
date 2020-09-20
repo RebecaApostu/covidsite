@@ -24,9 +24,9 @@ Completed in a threefold process that entailed:
 
 * Geolocating the booking origin to identify the top locations guests travelling to Copenhagen booked from (United States, United Kingdom and Germany). The mapped guest's locations can be accessed in an interactive format through this [link](https://rebecaapostu.github.io/GuestMap/index.html). 
 
-  Apart from countries with highest booking numbers, local news related to Denmark were included on the timeline, alongside with news related to China, as the first country to experience signs of COVID-19. 
-
 ![](images/screenshot-2020-08-14-at-13.38.26.png "Booking Origin Location")
+
+Apart from countries with highest booking numbers, local news related to Denmark were included on the timeline, alongside with news related to China, as the first country to experience signs of COVID-19. 
 
 * Narrowing the search of official COVID-19 related news to two main aspects: ***travel restrictions*** and ***lockdown measures***.
 * Collecting relevant pieces of official news, from sources with highest circulation. 
