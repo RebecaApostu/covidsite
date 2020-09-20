@@ -58,7 +58,7 @@ While observing the first effects on bookings, it becomes noticeable that the ca
 
 **News Stories Effect**
 
-Analysing the time connections between the peaks in bookings cancellations and official news, a few potential factors are identified as influential in driving this particular behaviour. 
+Analysing the time connections between the peaks in bookings cancellations and official news, five potential factors are identified as influential in driving this particular behaviour. 
 
 *''We begin observing an unusual increase in cancellation levels starting with March 11th. We have determined that it might be caused by a **fear of travel over health concerns factor**, given the recent global pandemic declaration by WHO, and the US announcement on imposing a **travel restriction** from the EU (Apostu & Beres, 2020).''* 
 
