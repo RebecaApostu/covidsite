@@ -76,10 +76,10 @@ Given that news were collected up until end June, no factors have been identifie
 
 The insights obtained through compelling Airbnb's response on the timeline referred to the strategies the platform took in adapting their refund policies to the COVID-19 circumstances. However, as the policy has been under constant update, it has not been possible to chronologically trace all the updates, as only the final version is available online. 
 
-'*'Through the interpretation of the timeline, we determined that in most cases, there is a 0-1 days interval of time between official news and the decision to cancel the booking. This allows platforms such as Airbnb little time to react and adapt, when a disruption of this scale occurs.''*
+'*'Through the interpretation of the timeline, we determined that in most cases, there is a 0-1 days interval of time between official news and the decision to cancel the booking. This allows platforms such as Airbnb little time to react and adapt, when a disruption of this scale occurs (ibid).''*
 
 **Summary**
 
-The timeline narrative and the method of analysis method claims that there is a unique relationship between official news, booking behaviour and geographical locations, that could be adapted explored in other instances when dealing with travel disruption.  
+The timeline narrative and the method of analysis are seen as to highlight a unique relationship between official news, booking behaviour and geographical locations. 
 
-> A similar method can be employed when studying large or isolated scale travel disruption, as it has the potential to contribute to understanding events at a granular level and extract meaningful insights.
+*''A similar method can be employed when studying large or isolated scale travel disruption, as it has the potential to contribute to understanding events at a granular level and extract meaningful insights (ibid).''*
