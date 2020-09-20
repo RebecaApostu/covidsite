@@ -8,9 +8,7 @@ hero: images/screenshot-2020-09-19-at-21.49.07.png
 ---
 **WORK IN PROGRESS**
 
-*This article explains the process of creating the timeline analysis as part of the MSc. Thesis: Travel Disruption during COVID-19: An exploratory data analysis on the effects of COVID-19 on Airbnb bookings in Copenhagen.* 
-
-
+*This article explains the process of creating the timeline analysis and extracting subsequent findings, as part of the MSc. Thesis: Travel Disruption during COVID-19: An exploratory data analysis on Airbnb in Copenhagen.* 
 
 The above timeline sets to explore the COVID-19 timeframe at a granular level, from the perspective of international news stories related to the event, and the potential effect on cancellations of Airbnb bookings in Copenhagen. 
 
