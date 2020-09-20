@@ -51,17 +51,11 @@ The final version of the timeline was reached by adding the available online com
 
 Having combined the official news with the cancellations levels recorded per day on the timeline offers and overview on the unfolding of events that might have an influence on the traveler's decision towards their booking.
 
+> `We begin observing an unusual increase in cancellation levels starting with March 11th. We have determined that it might be caused by a fear of travel over health concerns factor, given the recent global pandemic declaration by WHO, and the US announcement of banning travel from the EU (Apostu & Beres, 2020).`
 
+Following the first effects, it becomes noticeable that the cancellation levels occur over four major peaks in the COVID-19 timeframe. 
 
-Firstly, it becomes noticeable that the cancellation levels occur over four major peaks in the COVID-19 timeframe. 
-
-* ***14th of March,*** contained inacluster of daily cancellations from 11th to the 17th of March 2020
+* ***14th of March,*** contained in a cluster of daily cancellations from 11th to the 17th of March 2020
 * ***30th of March***
 * **June 11th** 
 * **July 9th**
-
-
-
-> `We begin noticing an unusual increase in cancellation levels starting with March 11th. We have determined that it might be caused by a fear of travel over health concerns factor, given the recent global pandemic declaration by WHO, and the US announcement of banning travel from the EU (Apostu & Beres, 2020).`
-
-` `
