@@ -62,11 +62,7 @@ While observing the first effects on bookings, it becomes noticeable that the ca
 
 Analysing the time connections between the peaks in bookings cancellations and official news, a few potential factors are identified as influential in driving this particular behaviour. 
 
-
-
 *''We begin observing an unusual increase in cancellation levels starting with March 11th. We have determined that it might be caused by a **fear of travel over health concerns factor**, given the recent global pandemic declaration by WHO, and the US announcement on imposing a **travel restriction** from the EU (Apostu & Beres, 2020).''* 
-
-
 
 The news narrative surrounding the first peak on March 14th, reveals **Denmark's lockdown and borders closure announcement** on the day before as the main factor for the unprecedented level of cancellations. 
 
@@ -75,3 +71,5 @@ The news narrative surrounding the first peak on March 14th, reveals **Denmark's
 As for the other cancellation peaks, the 30th of March is explained through **external travel restrictions** - such as the recent announcement on Germany's lockdown and UK's official advise for their citizens to avoid any type of travel.  
 
 Another factor identified as significant towards the third cancellation peak relates to the **Danish borders opening** announced for the 15th of June. As the border opened for a limited number of countries, and a 6 nights minimum stay requirement was in place, it is seen to have driven the behaviour of travellers that did not fit the criteria to cancel their travel booking.
+
+Given that news were collected up until end June, no factors have been identified for the cancellation levels recorded on July 9th.
