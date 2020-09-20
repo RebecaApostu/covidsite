@@ -6,8 +6,6 @@ excerpt: Interactive timeline showcasing international news stories and the
   effect on cancellations of Airbnb bookings in Copenhagen.
 hero: images/screenshot-2020-09-19-at-21.49.07.png
 ---
-**WORK IN PROGRESS**
-
 *This article explains the process of creating the timeline analysis and extracting subsequent findings, as part of the MSc. Thesis: "Travel Disruption during COVID-19: An exploratory data analysis on Airbnb in Copenhagen"* 
 
 The timeline is designed as an interactive prototype, displaying official news from five selected countries, booking cancellation peaks during the COVID-19 timeframe, and the Airbnb response to the events. It sets to explore the timeframe at a granular level, from the perspective of international news stories related to the event, and the potential effect on cancellations of Airbnb bookings in Copenhagen. 
@@ -58,11 +56,9 @@ While observing the first effects on bookings, it becomes noticeable that the ca
 * **June 11th** 
 * **July 9th**
 
-
-
 **News Stories Effect**
 
-Analysing the time connections between the peaks in bookings cancellations and official news, a few potential factors are identified as influential in driving this particular behaviour. 
+Analysing the time connections between the peaks in bookings cancellations and official news, five potential factors are identified as influential in driving this particular behaviour. 
 
 *''We begin observing an unusual increase in cancellation levels starting with March 11th. We have determined that it might be caused by a **fear of travel over health concerns factor**, given the recent global pandemic declaration by WHO, and the US announcement on imposing a **travel restriction** from the EU (Apostu & Beres, 2020).''* 
 
@@ -76,10 +72,14 @@ Another factor identified as significant towards the third cancellation peak rel
 
 Given that news were collected up until end June, no factors have been identified for the cancellation levels recorded on July 9th.
 
-
-
 **Airbnb's response**
 
 The insights obtained through compelling Airbnb's response on the timeline referred to the strategies the platform took in adapting their refund policies to the COVID-19 circumstances. However, as the policy has been under constant update, it has not been possible to chronologically trace all the updates, as only the final version is available online. 
 
 > Through the interpretation of the timeline, we determined that in most cases, there is a 0-1 days interval of time between official news and the decision to cancel the booking. This allows platforms such as Airbnb little time to react and adapt, when a disruption of this scale occurs.
+
+
+
+The timeline narrative and the method of analysis method claims that there is a unique relationship between official news, booking behaviour and geographical locations, that could be adapted explored in other instances when dealing with travel disruption.  
+
+> A similar method can be employed when studying large or isolated scale travel disruption, as it has the potential to contribute to understanding events at a granular level and extract meaningful insights.
