@@ -18,6 +18,8 @@ To reach the final timeline version, three main steps in adding the data were gr
 
 ### 1. Collecting the news
 
+
+
 Completed in a threefold process that entailed: 
 
 * Geolocating the booking origin to identify the top locations guests travelling to Copenhagen booked from (United States, United Kingdom and Germany). The mapped guest's locations can be accessed in an interactive format through this [link](https://rebecaapostu.github.io/GuestMap/index.html). 
@@ -49,7 +51,7 @@ The final version of the timeline was reached by adding the available online com
 
 Combining the official news with the cancellations levels recorded per day on the timeline offered an overview on the unfolding of events that might have had an influence on the traveler's decision towards their booking.
 
-While observing the first effects on bookings, it becomes noticeable that the cancellation levels occur over **four major peaks** in the COVID-19 timeframe. 
+While observing the first effects on bookings, it becomes noticeable that the cancellation levels occur over **four major peaks** during the COVID-19 timeframe. 
 
 * ***14th of March (***contained in a cluster of daily cancellations from the 11th to the 17th of March)
 * ***30th of March***
@@ -68,7 +70,7 @@ The news narrative surrounding the first peak on March 14th, reveals **Denmark's
 
 As for the other cancellation peaks, the 30th of March is explained through **external travel restrictions** - such as the recent announcement on Germany's lockdown and UK's official advise for their citizens to avoid any type of travel.  
 
-Another factor identified as significant towards the third cancellation peak relates to the **Danish borders opening** announced for the 15th of June. As the border opened for a limited number of countries, and a 6 nights minimum stay requirement was in place, it is seen to have driven the behaviour of travellers that did not fit the criteria to cancel their travel booking.
+Another factor seen as significant towards the third cancellation peak relates to the **Danish limited border opening** and the 6 nights stay requirement for travellers, announced for the 15th of June. It is seen to have influenced travellers that did not fit the criteria to cancel their travel booking.
 
 Given that news were collected up until end June, no factors have been identified for the cancellations recorded on July 9th.
 
