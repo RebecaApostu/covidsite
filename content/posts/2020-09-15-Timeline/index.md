@@ -18,7 +18,7 @@ To reach the final timeline version, three main steps in adding the data were fo
 
 ### 1. Collecting the news
 
-Done in a threefold process that entailed: 
+Completed in a threefold process that entailed: 
 
 * Geolocating the booking origin to identify the top locations guests travelling to Copenhagen booked from (United States, United Kingdom and Germany). The mapped guest's locations can be accessed in an interactive format through this [link](https://rebecaapostu.github.io/GuestMap/index.html). 
 
