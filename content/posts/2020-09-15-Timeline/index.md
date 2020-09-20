@@ -8,17 +8,19 @@ hero: images/screenshot-2020-09-19-at-21.49.07.png
 ---
 **WORK IN PROGRESS**
 
+*This article explains the process of creating the timeline analysis and extracting subsequent findings, as part of the MSc. Thesis: "Travel Disruption during COVID-19: An exploratory data analysis on Airbnb in Copenhagen"* 
+
 The above timeline sets to explore the COVID-19 timeframe at a granular level, from the perspective of international news stories related to the event, and the potential effect on cancellations of Airbnb bookings in Copenhagen. 
 
 The timeline is designed as an interactive prototype, displaying official news from five selected countries, booking cancellation peaks during the COVID-19 timeframe, and the Airbnb response to the events. The final version of the interactive timeline can be accessed via Github [here](https://rebecaapostu.github.io/CovidNewsTimeline/?fbclid=IwAR3jIaxB_DCTmtbCRvJIHqh4EmUSADMzEV6fdECJYXiQOPoNr-fOqQtsM1c). 
 
 ## Building the timeline
 
-To reach the final timeline version, the following steps were followed in a gradual manner: 
+To reach the final timeline version, three main steps in adding the data were followed in a gradual manner: 
 
 ### 1. Collecting the news
 
-Done in a threefold process that entailed: 
+Completed in a threefold process that entailed: 
 
 * Geolocating the booking origin to identify the top locations guests travelling to Copenhagen booked from (United States, United Kingdom and Germany). The mapped guest's locations can be accessed in an interactive format through this [link](https://rebecaapostu.github.io/GuestMap/index.html). 
 
@@ -43,18 +45,8 @@ Next, the main bookings dataset has been sampled to only include the bookings ma
 
 The final version of the timeline was reached by adding the available online communication related to Airbnb's response to the COVID-19 outbreak.
 
-
-
 ![](images/screenshot-2020-09-20-at-17.08.15.png "Final Timeline Version")
 
- 
-
 ### Findings
-
-
-
-
-
-
 
 The prototype comes as a result of the research for the MSc. Thesis: Travel Disruption during COVID-19, conducted at the IT University of Copenhagen, as part of the Digital Innovation and Management programme.
