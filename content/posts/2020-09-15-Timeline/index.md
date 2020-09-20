@@ -18,8 +18,6 @@ To reach the final timeline version, three main steps in adding the data were gr
 
 ### 1. Collecting the news
 
-
-
 Completed in a threefold process that entailed: 
 
 * Geolocating the booking origin to identify the top locations guests travelling to Copenhagen booked from (United States, United Kingdom and Germany). The mapped guest's locations can be accessed in an interactive format through this [link](https://rebecaapostu.github.io/GuestMap/index.html). 
@@ -78,7 +76,7 @@ Given that news were collected up until end June, no factors have been identifie
 
 The insights obtained through compelling Airbnb's response on the timeline referred to the strategies the platform took in adapting their refund policies to the COVID-19 circumstances. However, as the policy has been under constant update, it has not been possible to chronologically trace all the updates, as only the final version is available online. 
 
-'*'Through the interpretation of the timeline, we determined that in most cases, there is a 0-1 days interval of time between official news and the decision to cancel the booking. This allows platforms such as Airbnb little time to react and adapt, when a disruption of this scale occurs (ibid).''*
+'*'Determining the above factors we observed that, in most cases, there is a 0-1 days interval of time between official news and the decision to cancel the booking. This allows platforms such as Airbnb little time to react and adapt, when a disruption of this scale occurs (ibid).''*
 
 **Summary**
 
