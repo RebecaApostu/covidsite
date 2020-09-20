@@ -80,8 +80,6 @@ Given that news were collected up until end June, no factors have been identifie
 
 **Airbnb's response**
 
-Most news related to Airbnb's approach on the COVID-19 global events referred to the updates of the extenuating circumstance policy, allowing guest's to receive refunds due to inability to travel. However, as the policy has been under constant update, it has not been possible to chronologically trace all the updates, as only the final version is available online. 
+The insights obtained through compelling Airbnb's response on the timeline referred to the strategies the platform took in adapting their refund policies to the COVID-19 circumstances. However, as the policy has been under constant update, it has not been possible to chronologically trace all the updates, as only the final version is available online. 
 
-The insights obtained through compelling Airbnb's response on the timeline referred to the strategies the platform took in adapting their refund policies to the extraordinary circumstances. 
-
-*''In a broader sense, Airbnb took on the role of mediator between guests and peers to a greater extent due to the nature of the situation (ibid).''*
+> Through the interpretation of the timeline, we determined that in most cases, there is a 0-1 days interval of time between official news and the decision to cancel the booking. This allows platforms such as Airbnb little time to react and adapt, when a disruption of this scale occurs.
