@@ -51,20 +51,22 @@ The final version of the timeline was reached by adding the available online com
 
 Combining the official news with the cancellations levels recorded per day on the timeline offered an overview on the unfolding of events that might have had an influence on the traveler's decision towards their booking.
 
+While observing the first effects on bookings, it becomes noticeable that the cancellation levels occur over **four major peaks** in the COVID-19 timeframe. 
+
+* ***14th of March (***contained in a cluster of daily cancellations from the 11th to the 17th of March)
+* ***30th of March***
+* **June 11th** 
+* **July 9th**
+
 **News Stories Effect**
+
+Analysing the time connections between the peaks in bookings cancellations and official news, a few potential factors are identified as influential in driving this particular behaviour. 
 
 
 
 *''We begin observing an unusual increase in cancellation levels starting with March 11th. We have determined that it might be caused by a **fear of travel over health concerns factor**, given the recent global pandemic declaration by WHO, and the US announcement on imposing a **travel restriction** from the EU (Apostu & Beres, 2020).''* 
 
-Following the first observed effects, it becomes noticeable that the cancellation levels occur over **four major peaks** in the COVID-19 timeframe. 
 
-* ***14th of March,*** contained in a cluster of daily cancellations from 11th to the 17th of March 2020
-* ***30th of March***
-* **June 11th** 
-* **July 9th**
-
-Analysing the time connections between the peaks in bookings cancellations and official news, a few potential factors are identified as influential in driving this particular behaviour. 
 
 The news narrative surrounding the first peak on March 14th, reveals **Denmark's lockdown and borders closure announcement** on the day before as the main factor for the unprecedented level of cancellations. 
 
