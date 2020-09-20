@@ -14,7 +14,7 @@ The timeline is designed as an interactive prototype, displaying official news f
 
 ## Building the timeline
 
-To reach the final timeline version, the following steps were followed in a gradual manner: 
+To reach the final timeline version, three main steps in adding the data were followed in a gradual manner: 
 
 ### 1. Collecting the news
 
@@ -43,18 +43,8 @@ Next, the main bookings dataset has been sampled to only include the bookings ma
 
 The final version of the timeline was reached by adding the available online communication related to Airbnb's response to the COVID-19 outbreak.
 
-
-
 ![](images/screenshot-2020-09-20-at-17.08.15.png "Final Timeline Version")
 
- 
-
 ### Findings
-
-
-
-
-
-
 
 The prototype comes as a result of the research for the MSc. Thesis: Travel Disruption during COVID-19, conducted at the IT University of Copenhagen, as part of the Digital Innovation and Management programme.
