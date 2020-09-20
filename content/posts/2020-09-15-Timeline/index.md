@@ -37,7 +37,7 @@ The selected pieces of news were then set on a timeline, in chronological order.
 
 ### 2. Adding cancellations data
 
-Next, the main bookings dataset has been sampled to only include the bookings marked as 'cancelled'. The data was then crossed with the official news data and set on the same timeline.  
+Next, the main bookings dataset has been sampled to only include the bookings marked as 'cancelled'. The data was then crossed with the official news data and set on the same timeline. News are displayed in a card view, while cancellations are formatted as bars.   
 
 ![](images/screenshot-2020-09-19-at-21.49.07.png "Timeline of News versus Cancellations")
 
@@ -49,4 +49,8 @@ The final version of the timeline was reached by adding the available online com
 
 ### Findings
 
-The prototype comes as a result of the research for the MSc. Thesis: Travel Disruption during COVID-19, conducted at the IT University of Copenhagen, as part of the Digital Innovation and Management programme.
+Having combined the official news with the cancellations levels recorded per day on the timeline offered an overview of the time connection between the two. 
+
+
+
+>
