@@ -57,3 +57,7 @@ Firstly, it becomes noticeable that the cancellation levels occur over four majo
 * ***30th of March***
 * **June 11th** 
 * **July 9th**
+
+
+
+> We begin noticing an unusual increase in cancellation levels starting with March 11th. For the first visible increase in cancelation on the 12th of March, we have determined that they might be caused by either a fear of travel over health concerns and the US announcement of banning travel from the EU.
