@@ -35,7 +35,7 @@ The selected pieces of news were then set on a timeline, in chronological order.
 
 ### Adding cancellations data
 
-
+Next, the main bookings dataset has been sampled to include the bookings marked as 'cancelled'. 
 
 
 
