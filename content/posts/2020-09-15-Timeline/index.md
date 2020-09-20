@@ -45,7 +45,7 @@ The final version of the timeline was reached by adding the available online com
 
 ![](images/screenshot-2020-09-20-at-17.08.15.png "Final Timeline Version")
 
-### Findings
+## Findings
 
 Combining the official news with the cancellations levels recorded per day on the timeline offered an overview on the unfolding of events that might have had an influence on the traveler's decision towards their booking.
 
@@ -56,9 +56,9 @@ While observing the first effects on bookings, it becomes noticeable that the ca
 * **June 11th** 
 * **July 9th**
 
-**News Stories Effect**
+### **News Stories Effect**
 
-Analysing the time connections between the peaks in bookings cancellations and official news, five potential factors are identified as influential in driving this particular behaviour. 
+Analysing the time connections between the peaks in bookings cancellations and official news, **five potential factors** are identified as influential in driving this particular behaviour. 
 
 *''We begin observing an unusual increase in cancellation levels starting with March 11th. We have determined that it might be caused by a **fear of travel over health concerns factor**, given the recent global pandemic declaration by WHO, and the US announcement on imposing a **travel restriction** from the EU (Apostu & Beres, 2020).''* 
 
@@ -72,13 +72,13 @@ Another factor seen as significant towards the third cancellation peak relates t
 
 Given that news were collected up until end June, no factors have been identified for the cancellations recorded on July 9th.
 
-**Airbnb's response**
+### **Airbnb's response**
 
 The insights obtained through compelling Airbnb's response on the timeline referred to the strategies the platform took in adapting their extenuating circumstance policy to the COVID-19 context, allowing travellers to receive refunds on their booking if unable to travel.  
 
 '*'Through the timeline analysis we observed that, in most cases, there is a 0-1 days interval of time between official news and the decision to cancel the booking. This allows platforms such as Airbnb little time to react and adapt, when a disruption of this scale occurs (ibid).''*
 
-**Summary**
+### **Summary**
 
 The timeline narrative and the method of analysis are seen as to highlight a unique relationship between official news, booking behaviour and geographical locations. 
 
