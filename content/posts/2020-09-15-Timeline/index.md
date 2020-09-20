@@ -70,13 +70,15 @@ As for the other cancellation peaks, the 30th of March is explained through **ex
 
 Another factor identified as significant towards the third cancellation peak relates to the **Danish borders opening** announced for the 15th of June. As the border opened for a limited number of countries, and a 6 nights minimum stay requirement was in place, it is seen to have driven the behaviour of travellers that did not fit the criteria to cancel their travel booking.
 
-Given that news were collected up until end June, no factors have been identified for the cancellation levels recorded on July 9th.
+Given that news were collected up until end June, no factors have been identified for the cancellations recorded on July 9th.
 
 **Airbnb's response**
 
 The insights obtained through compelling Airbnb's response on the timeline referred to the strategies the platform took in adapting their refund policies to the COVID-19 circumstances. However, as the policy has been under constant update, it has not been possible to chronologically trace all the updates, as only the final version is available online. 
 
 '*'Through the interpretation of the timeline, we determined that in most cases, there is a 0-1 days interval of time between official news and the decision to cancel the booking. This allows platforms such as Airbnb little time to react and adapt, when a disruption of this scale occurs.''*
+
+**Summary**
 
 The timeline narrative and the method of analysis method claims that there is a unique relationship between official news, booking behaviour and geographical locations, that could be adapted explored in other instances when dealing with travel disruption.  
 
