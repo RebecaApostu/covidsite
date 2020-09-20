@@ -53,6 +53,8 @@ Combining the official news with the cancellations levels recorded per day on th
 
 **News Stories Effect**
 
+
+
 *''We begin observing an unusual increase in cancellation levels starting with March 11th. We have determined that it might be caused by a **fear of travel over health concerns factor**, given the recent global pandemic declaration by WHO, and the US announcement on imposing a **travel restriction** from the EU (Apostu & Beres, 2020).''* 
 
 Following the first observed effects, it becomes noticeable that the cancellation levels occur over **four major peaks** in the COVID-19 timeframe. 
@@ -62,8 +64,6 @@ Following the first observed effects, it becomes noticeable that the cancellatio
 * **June 11th** 
 * **July 9th**
 
-**News Stories Effect**
-
 Analysing the time connections between the peaks in bookings cancellations and official news, a few potential factors are identified as influential in driving this particular behaviour. 
 
 The news narrative surrounding the first peak on March 14th, reveals **Denmark's lockdown and borders closure announcement** on the day before as the main factor for the unprecedented level of cancellations. 
@@ -72,4 +72,4 @@ The news narrative surrounding the first peak on March 14th, reveals **Denmark's
 
 As for the other cancellation peaks, the 30th of March is explained through **external travel restrictions** - such as the recent announcement on Germany's lockdown and UK's official advise for their citizens to avoid any type of travel.  
 
-Another factor identified as significant towards the third cancellation peak relates to the **Danish borders opening** announced for the 15th of June. As the border opening only allowed a very limited number of countries and a 6 nights minimum stay requirement was in place, it is seen to have driven the behaviour of traveler's that did not fit the criteria to cancel their travel booking.
+Another factor identified as significant towards the third cancellation peak relates to the **Danish borders opening** announced for the 15th of June. As the border opened for a limited number of countries, and a 6 nights minimum stay requirement was in place, it is seen to have driven the behaviour of travellers that did not fit the criteria to cancel their travel booking.
