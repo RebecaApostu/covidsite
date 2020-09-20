@@ -20,7 +20,7 @@ To reach the final timeline version, the following steps were followed in a grad
 
 Done in a threefold process that entailed: 
 
-* Geolocating the booking origin to determine the top locations guests travelling to Copenhagen booked from (United States, United Kingdom and Germany). The mapped guest's locations can be accessed in an interactive format through this [link](https://rebecaapostu.github.io/GuestMap/index.html). 
+* Geolocating the booking origin to identify the top locations guests travelling to Copenhagen booked from (United States, United Kingdom and Germany). The mapped guest's locations can be accessed in an interactive format through this [link](https://rebecaapostu.github.io/GuestMap/index.html). 
 
   Apart from countries with highest booking numbers, local news related to Denmark were included on the timeline, alongside with news related to China, as the first country to experience signs of COVID-19. 
 
@@ -35,11 +35,13 @@ The selected pieces of news were then set on a timeline, in chronological order.
 
 ### Adding cancellations data
 
-Next, the main bookings dataset has been sampled to include the bookings marked as 'cancelled'. 
-
-
+Next, the main bookings dataset has been sampled to include the bookings marked as 'cancelled'. The data was then crossed with the official news collected and set on the same timeline.  
 
 ### Integrating Airbnb's response
+
+The final version of the timeline was reached by adding the available online new data related to Airbnb's response to the COVID-19 outbreak. 
+
+
 
 The prototype comes as a result of the research for the MSc. Thesis: Travel Disruption during COVID-19, conducted at the IT University of Copenhagen, as part of the Digital Innovation and Management programme. 
 
