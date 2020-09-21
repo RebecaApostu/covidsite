@@ -4,13 +4,19 @@ author: Rebeca Apostu
 date: 2020-09-17
 hero: images/screenshot-2020-08-18-at-21.21.05.png
 ---
-***Work in progress***
+*This article is based on the MSc. Thesis: “Travel Disruption during COVID-19: An exploratory data analysis on Airbnb in Copenhagen”, written by Rebeca Apostu and Aurora Beres.* 
 
-Comparison of Airbnb related booking activities between 2019 and 2020 (up to end July), pre and during the COVID-19 outbreak. Presents the effects over time in terms of *seasonality trends, monthly bookings quantified, average daily rates booked at, price fluctuations and booking duration.*
+To measure the effects on Airbnb related booking activities, a comparative analysis was used to highlight trends pre and during the COVID-19 outbreak, using 2019 as the baseline for comparison. 
+
+> Statistics over time are extracted in terms of *seasonality trends, monthly bookings quantity, average daily rate, price fluctuations and booking duration.*
 
 The material resulted from the analysis is published on [Tableau Public.](https://public.tableau.com/profile/rebeca.apostu#!/vizhome/TableauAnalytics-CovidThesis/SeasonalityTrends)
 
 # Time Series Approach
+
+
+
+
 
 # H1
 
