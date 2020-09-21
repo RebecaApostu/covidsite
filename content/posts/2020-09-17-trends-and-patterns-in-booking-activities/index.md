@@ -6,11 +6,11 @@ hero: images/screenshot-2020-08-18-at-21.21.05.png
 ---
 *This article is based on the MSc. Thesis: “Travel Disruption during COVID-19: An exploratory data analysis on Airbnb in Copenhagen”, written by Rebeca Apostu and Aurora Beres.* 
 
-To measure the effects of COVID-19 on Airbnb related booking activities, a comparative analysis was used to highlight trends pre and during the outbreak, using 2019 as the baseline for comparison. 
+To measure the effects of COVID-19 on Airbnb related booking activities, a comparative analysis was used to highlight trends pre and during the outbreak. The baseline for comparison is the whole of 2019 and statistics are drawn up to July 2020. 
 
 > Statistics over time are extracted in terms of *seasonality trends, quantity of monthly bookings, price fluctuations and booking duration.*
 
-The material resulted from the analysis is published on [Tableau Public.](https://public.tableau.com/profile/rebeca.apostu#!/vizhome/TableauAnalytics-CovidThesis/SeasonalityTrends)
+The material resulted from the analysis is published on [Tableau Public](https://public.tableau.com/profile/rebeca.apostu#!/vizhome/TableauAnalytics-CovidThesis/Trendline-confirmedandcanceledbookings).
 
 # Time Series Approach
 
@@ -42,11 +42,11 @@ With data up to July 2020, the trends show that a high-seasonality has not occur
 
 
 
+## Bookings Quantity
 
 
 
 
-## Emphasis
 
 Emphasis, aka italics, with *asterisks* or *underscores*.
 
