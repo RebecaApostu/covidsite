@@ -24,13 +24,19 @@ Broken-down into three main elements, the analysis employed time-stamped data to
 
 ### Seasonal Changes
 
-The seasonality heat-map calendar is assembled on a 8-point colour-code scale, measured by the number of bookings in a day. Green refers to a higher number of bookings, while red measures the opposite. 
+The [seasonality heat-map calendar](https://public.tableau.com/profile/rebeca.apostu#!/vizhome/TableauAnalytics-CovidThesis/SeasonalityTrends) is assembled on a 8-point colour-code scale, measured by the number of bookings in a day. Green refers to a higher number of bookings, while red measures the opposite. 
 
 > The 2019 seasonality shows a regular high season from October to March included, and high season from April to September. 
 
 ![](images/screenshot-2020-08-18-at-21.21.05.png "2019 Seasonality ")
 
-2020 marks a change in regular seasonality. 
+> 2020 booking levels seem to display a 'never-ending'  low season 
+
+It becomes visible that 2020 marks a shift from known seasonality trends - an unprecedented level of days with low (or no) bookings is recorded starting with March.  
+
+
+
+With data up to July 2020, the trends show that a high-seasonality has not occurred. Although July shows signs of a recovery, booking levels are below any of the 2019 months. 
 
 ![](images/screenshot-2020-08-18-at-21.21.52.png "Seasonality 2020")
 
