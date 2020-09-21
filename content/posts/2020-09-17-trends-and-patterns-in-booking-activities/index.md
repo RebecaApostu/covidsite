@@ -7,7 +7,7 @@ excerpt: Analysis on the effects of COVID-19 on Airbnb travel bookings in
   January 2019 to end July 2020
 hero: images/screenshot-2020-08-18-at-21.21.05.png
 ---
-*This article is based on the MSc. Thesis: “Travel Disruption during COVID-19: An exploratory data analysis on Airbnb in Copenhagen”, written by Rebeca Apostu and Aurora Beres.* 
+*This article is based on the MSc. Thesis: “Travel Disruption during COVID-19: An exploratory data analysis on Airbnb in Copenhagen”, written by Rebeca Apostu and Aurora Bere.* 
 
 To measure the effects of COVID-19 on Airbnb related booking activities, a comparative analysis was used to highlight trends pre and during the outbreak. The baseline for comparison is the whole of 2019 and statistics are drawn up to July 2020. 
 
