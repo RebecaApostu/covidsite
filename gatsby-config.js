@@ -3,9 +3,9 @@ module.exports = {
     title: `CovidThesis`,
     name: `CovidThesis`,
     siteUrl: `http://covidthesis.com`,
-    description: `Supplement for Thesis: Travel Disruption during Covid-19`,
+    description: `Supplement for Thesis: Travel Disruption during COVID-19`,
     hero: {
-      heading: `Welcome to the interactive web page for MSc. thesis: Travel Disruption during Covid-19.`,
+      heading: `Welcome to the interactive webpage for MSc. thesis: Travel Disruption during COVID-19.`,
       maxWidth: 652,
     },
     social: [
