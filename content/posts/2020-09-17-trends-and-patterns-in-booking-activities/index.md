@@ -6,7 +6,7 @@ hero: images/screenshot-2020-08-18-at-21.21.05.png
 ---
 *This article is based on the MSc. Thesis: “Travel Disruption during COVID-19: An exploratory data analysis on Airbnb in Copenhagen”, written by Rebeca Apostu and Aurora Beres.* 
 
-To measure the effects on Airbnb related booking activities, a comparative analysis was used to highlight trends pre and during the COVID-19 outbreak, using 2019 as the baseline for comparison. 
+To measure the effects of COVID-19 on Airbnb related booking activities, a comparative analysis was used to highlight trends pre and during the outbreak, using 2019 as the baseline for comparison. 
 
 > Statistics over time are extracted in terms of *seasonality trends, quantity of monthly bookings, price fluctuations and booking duration.*
 
@@ -14,23 +14,31 @@ The material resulted from the analysis is published on [Tableau Public.](https:
 
 # Time Series Approach
 
+Broken-down into three main elements, the analysis employed time-stamped data to asses changes over time:
+
+* seasonality and calendar related movements
+* trends and patterns over time, to observe the long term direction
+* outliers and sudden shifts in the data, by spotting irregularities 
+
+
+
+### Seasonal Changes
+
+The seasonality heat-map calendar is assembled on a 8-point colour-code scale, measured by the number of bookings in a day. Green refers to a higher number of bookings, while red measures the opposite. 
+
+> The 2019 seasonality shows a regular high season from October to March included, and high season from April to September. 
+
+![](images/screenshot-2020-08-18-at-21.21.05.png "2019 Seasonality ")
+
+2020 marks a change in regular seasonality. 
+
+![](images/screenshot-2020-08-18-at-21.21.52.png "Seasonality 2020")
 
 
 
 
-# H1
 
-It is recommended to NOT use H1s as it is reserved for the article heading. Any H1 is set as an H2.
 
-## H2
-
-### H3
-
-#### H4
-
-##### H5
-
-###### H6
 
 ## Emphasis
 
