@@ -8,7 +8,7 @@ hero: images/screenshot-2020-08-18-at-21.21.05.png
 
 To measure the effects on Airbnb related booking activities, a comparative analysis was used to highlight trends pre and during the COVID-19 outbreak, using 2019 as the baseline for comparison. 
 
-> Statistics over time are extracted in terms of *seasonality trends, monthly bookings quantity, average daily rate, price fluctuations and booking duration.*
+> Statistics over time are extracted in terms of *seasonality trends, quantity of monthly bookings, price fluctuations and booking duration.*
 
 The material resulted from the analysis is published on [Tableau Public.](https://public.tableau.com/profile/rebeca.apostu#!/vizhome/TableauAnalytics-CovidThesis/SeasonalityTrends)
 
