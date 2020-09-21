@@ -42,7 +42,7 @@ To quantify the shifts above,  bookings are measured in a month-over-month overv
 
 The [bookings distribution](https://public.tableau.com/profile/rebeca.apostu#!/vizhome/TableauAnalytics-CovidThesis/BookingDistributionperMonth) per month looks at confirmed bookings and measures them by the month of the arrival date. 
 
-> In the timeframe March-July 2020, a fluctuating decrease of 40 to 90% in booking activities is observed, compared to 2019. 
+> In the timeframe March-July 2020, a fluctuating decrease of 50 to 90% in booking activities is observed, compared to 2019. 
 
 ![](images/screenshot-2020-08-19-at-13.15.20.png "Bookings Quantified")
 
