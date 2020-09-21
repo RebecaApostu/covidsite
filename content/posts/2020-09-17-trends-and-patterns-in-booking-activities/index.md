@@ -60,15 +60,23 @@ Prices begin to show a more positive trend from June 2020. However, when compare
 
 ![](images/screenshot-2020-08-30-at-22.22.02.png)
 
-
-
 ### Booking Duration
 
 In terms of determining whether the change in average booked prices was sustained by a change in [booking duration](https://public.tableau.com/profile/rebeca.apostu#!/vizhome/TableauAnalytics-CovidThesis/BookingDurationpermonth) over the two years, the average nights booked every month were mapped. 
 
-> An exponential shift in the average booking duration starts in March 2020 - from an average of 4 to a peak as high as 10 in May, and a constant average of 6 in the following months. 
+> An exponential shift in the average booking duration starts in March 2020 - from an average of 4 to a peak as high as 10 in May, and a constant average of 6.9 in the following months. 
 
 ![](images/screenshot-2020-09-21-at-16.54.05.png)
+
+
+
+### Trendline Analysis
+
+Apart from looking at the above effects in confirmed bookings and adjacent metrics, cancellations levels pre and during COVID-19 are assessed. 
+
+
+
+
 
 
 
