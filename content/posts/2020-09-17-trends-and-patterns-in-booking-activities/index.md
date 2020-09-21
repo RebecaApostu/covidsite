@@ -24,17 +24,13 @@ Broken-down into three main elements, the analysis employed time-stamped data to
 
 The [seasonality heat-map calendar](https://public.tableau.com/profile/rebeca.apostu#!/vizhome/TableauAnalytics-CovidThesis/SeasonalityTrends) is assembled on a 8-point colour-code scale, measured by the number of confirmed bookings in a day. Green refers to a higher number of bookings, while red measures the opposite. 
 
-> The 2019 seasonality shows a regular high season from October to March included, and high season from April to September. 
+The 2019 seasonality shows a regular high season from October to March included, and high season from April to September. 
 
 ![](images/screenshot-2020-08-18-at-21.21.05.png "2019 Seasonality ")
 
 It becomes visible that 2020 marks a shift from known seasonality trends - an unprecedented level of days with low (or no) bookings is recorded starting with March.  
 
-
-
 > 2020 booking levels seem to display a 'never-ending'  low season 
-
-
 
 With data up to July 2020, the trends show that a high-seasonality has not occurred. Although July shows signs of a recovery, booking levels are below any of the 2019 months. 
 
@@ -68,7 +64,7 @@ Prices begin to show a more positive trend from June 2020. However, when compare
 
 In terms of determining whether the change in average booked prices was sustained by a change in [booking duration](https://public.tableau.com/profile/rebeca.apostu#!/vizhome/TableauAnalytics-CovidThesis/BookingDurationpermonth) over the two years, the average nights booked every month were mapped. 
 
-> An exponential shift in the average booking duration starts in March 2020 - from an average of 4 to a peak as high as 10 in May, and a constant average of 6.9 in the following months. 
+An exponential shift in the average booking duration starts in March 2020 - from an average of 4 to a peak as high as 10 in May, and a constant average of 6.9 in the following months. 
 
 ![](images/screenshot-2020-09-21-at-16.54.05.png)
 
