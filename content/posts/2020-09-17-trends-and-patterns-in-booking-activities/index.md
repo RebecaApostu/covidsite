@@ -6,15 +6,11 @@ hero: images/screenshot-2020-08-18-at-21.21.05.png
 ---
 ***Work in progress***
 
-Comparison of Airbnb related booking activities between 2019 and 2020 (up to end July), pre and during the COVID-19 outbreak. Paints a picture of connections over time in terms of *seasonality trends, monthly bookings quantified, average daily rates booked at, price fluctuations and booking duration.*
+Comparison of Airbnb related booking activities between 2019 and 2020 (up to end July), pre and during the COVID-19 outbreak. Presents the effects over time in terms of *seasonality trends, monthly bookings quantified, average daily rates booked at, price fluctuations and booking duration.*
 
 The material resulted from the analysis is published on [Tableau Public.](https://public.tableau.com/profile/rebeca.apostu#!/vizhome/TableauAnalytics-CovidThesis/SeasonalityTrends)
 
-
-
 # Time Series Approach
-
-
 
 # H1
 
