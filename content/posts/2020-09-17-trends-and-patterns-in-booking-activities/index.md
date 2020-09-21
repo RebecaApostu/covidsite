@@ -50,7 +50,7 @@ Apart from a drop in the number of bookings, a drop in the number of properties 
 
 ![](images/screenshot-2020-09-21-at-16.26.18.png "Booked properties per month")
 
-**Average Booked Daily Rates** 
+**Average Daily Rates** 
 
 In an attempt to measure whether there has been an effect on the daily rates bookings occurred at during COVID-19, an [average daily rate metric](https://public.tableau.com/profile/rebeca.apostu#!/vizhome/TableauAnalytics-CovidThesis/Averagepricespermonth2019vs2020nrofbookingspermonth2) was extracted. 
 
