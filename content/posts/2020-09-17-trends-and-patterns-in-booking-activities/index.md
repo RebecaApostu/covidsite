@@ -50,8 +50,6 @@ Apart from a drop in the number of bookings, a drop in the number of properties 
 
 ![](images/screenshot-2020-09-21-at-16.26.18.png "Booked properties per month")
 
-
-
 **Average Booked Daily Rates** 
 
 In an attempt to measure whether there has been an effect on the daily rates bookings occurred at during COVID-19, an [average daily rate metric](https://public.tableau.com/profile/rebeca.apostu#!/vizhome/TableauAnalytics-CovidThesis/Averagepricespermonth2019vs2020nrofbookingspermonth2) was extracted. 
@@ -64,7 +62,13 @@ Prices begin to show a more positive trend from June 2020. However, when compare
 
 
 
+### Booking Duration
 
+In terms of determining whether the change in average booked prices was sustained by a change in [booking duration](https://public.tableau.com/profile/rebeca.apostu#!/vizhome/TableauAnalytics-CovidThesis/BookingDurationpermonth) over the two years, the average nights booked every month were mapped. 
+
+> An exponential shift in the average booking duration starts in March 2020 - from an average of 4 to a peak as high as 10 in May, and a constant average of 6 in the following months. 
+
+![](images/screenshot-2020-09-21-at-16.54.05.png)
 
 
 
