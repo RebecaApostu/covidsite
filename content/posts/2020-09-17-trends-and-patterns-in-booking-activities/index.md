@@ -68,13 +68,19 @@ In terms of determining whether the change in average booked prices was sustaine
 
 ![](images/screenshot-2020-09-21-at-16.54.05.png)
 
-
-
 ### Trendline Analysis
 
 Apart from looking at the above effects in confirmed bookings and adjacent metrics, cancellations levels pre and during COVID-19 are assessed. 
 
+Using the date of booking alteration(time-stamp of the action of confirming or cancelling the booking) as index, a measurement of [confirmed booking frequency ](https://public.tableau.com/profile/rebeca.apostu#!/vizhome/TableauAnalytics-CovidThesis/TrendlineMovingAverage-ConfirmedBookings) and a subsequent one on the [cancelled bookings](https://public.tableau.com/profile/rebeca.apostu#!/vizhome/TableauAnalytics-CovidThesis/Trendline-CanceledBookings) were drawn for the entire dataset. 
 
+Crossing the two timelines provided an overview on the behaviour tendency both in confirming or cancelling bookings. 
+
+
+
+![](images/screenshot-2020-09-21-at-17.11.56.png)
+
+ 
 
 
 
