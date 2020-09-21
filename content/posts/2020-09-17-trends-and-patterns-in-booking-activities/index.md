@@ -46,13 +46,21 @@ The [bookings distribution](https://public.tableau.com/profile/rebeca.apostu#!/v
 
 ![](images/screenshot-2020-08-19-at-13.15.20.png "Bookings Quantified")
 
-
-
 Apart from a drop in the number of bookings, a drop in the number of properties booked is noticeable, with a drop of 50%.  
 
-
-
 ![](images/screenshot-2020-09-21-at-16.26.18.png "Booked properties per month")
+
+
+
+**Average Booked Daily Rates** 
+
+In an attempt to measure whether there has been an effect on the daily rates bookings occurred at during COVID-19, an [average daily rate metric](https://public.tableau.com/profile/rebeca.apostu#!/vizhome/TableauAnalytics-CovidThesis/Averagepricespermonth2019vs2020nrofbookingspermonth2) was extracted. 
+
+> Average prices per month in 2020 seem to have taken a turn starting with April, with a 50% decrease. 
+
+Prices begin to show a more positive trend from June 2020. However, when compared with the same months of 2019, they do not reach pre COVID-19 booked rates levels.  
+
+![](images/screenshot-2020-08-30-at-22.22.02.png)
 
 
 
