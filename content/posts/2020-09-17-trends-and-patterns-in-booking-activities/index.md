@@ -82,4 +82,4 @@ Crossing the two timelines provided an overview on the behaviour tendency both i
 
 - - -
 
-Through the few metrics explored, long term trends and shifts from the regular tendencies are observed and quantified.  The comparison between pre and during COVID-19 attempts to present a narrative on the effects of the pandemic at an isolated level, through the lens of a few metrics on Airbnb booking activities in Copenhagen.
+Through the few metrics explored, long term trends and shifts from the regular tendencies are observed and quantified.  The comparison between pre and during COVID-19 attempts to present a narrative on the effects of the pandemic at an isolated local level, through the lens of a few metrics on Airbnb booking activities in Copenhagen.
