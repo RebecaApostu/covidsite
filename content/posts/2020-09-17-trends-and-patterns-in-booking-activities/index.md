@@ -8,7 +8,7 @@ hero: images/screenshot-2020-08-18-at-21.21.05.png
 
 Comparison of Airbnb related booking activities between 2019 and 2020 (up to end July). Paints a picture of connections over time in terms of *seasonality trends, monthly bookings quantified, average daily rates booked at, price fluctuations and booking duration.*
 
-My first post using `@narative/gatsby-theme-novela`. Novela is built by the team at [Narative](https://narative.co), and built for everyone that loves the web.
+The material resulted from the analysis is available in interactive format on [Tableau Public.](https://public.tableau.com/profile/rebeca.apostu#!/vizhome/TableauAnalytics-CovidThesis/SeasonalityTrends)
 
 ## Headers
 
