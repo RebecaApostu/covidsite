@@ -24,7 +24,7 @@ Broken-down into three main elements, the analysis employed time-stamped data to
 
 ### Seasonal Changes
 
-The [seasonality heat-map calendar](https://public.tableau.com/profile/rebeca.apostu#!/vizhome/TableauAnalytics-CovidThesis/SeasonalityTrends) is assembled on a 8-point colour-code scale, measured by the number of bookings in a day. Green refers to a higher number of bookings, while red measures the opposite. 
+The [seasonality heat-map calendar](https://public.tableau.com/profile/rebeca.apostu#!/vizhome/TableauAnalytics-CovidThesis/SeasonalityTrends) is assembled on a 8-point colour-code scale, measured by the number of confirmed bookings in a day. Green refers to a higher number of bookings, while red measures the opposite. 
 
 > The 2019 seasonality shows a regular high season from October to March included, and high season from April to September. 
 
@@ -44,9 +44,13 @@ With data up to July 2020, the trends show that a high-seasonality has not occur
 
 ## Bookings Quantity
 
+To quantify the shifts above,  bookings are measured in a month-over-month overview. 
 
+The [bookings distribution](https://public.tableau.com/profile/rebeca.apostu#!/vizhome/TableauAnalytics-CovidThesis/BookingDistributionperMonth) per month looks at confirmed bookings and measures them by the month of the arrival date. 
 
+> In the timeframe March-July 2020, a decrease of 40 to 90% in booking activities is observed, compared to 2019. 
 
+![](images/screenshot-2020-08-19-at-13.15.20.png)
 
 Emphasis, aka italics, with *asterisks* or *underscores*.
 
