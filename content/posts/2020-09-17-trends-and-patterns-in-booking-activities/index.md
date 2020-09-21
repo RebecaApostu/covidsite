@@ -20,8 +20,6 @@ Broken-down into three main elements, the analysis employed time-stamped data to
 * trends and patterns over time, to observe the long term direction
 * outliers and sudden shifts in the data, by spotting irregularities 
 
-
-
 ### Seasonal Changes
 
 The [seasonality heat-map calendar](https://public.tableau.com/profile/rebeca.apostu#!/vizhome/TableauAnalytics-CovidThesis/SeasonalityTrends) is assembled on a 8-point colour-code scale, measured by the number of confirmed bookings in a day. Green refers to a higher number of bookings, while red measures the opposite. 
@@ -34,13 +32,9 @@ The [seasonality heat-map calendar](https://public.tableau.com/profile/rebeca.ap
 
 It becomes visible that 2020 marks a shift from known seasonality trends - an unprecedented level of days with low (or no) bookings is recorded starting with March.  
 
-
-
 With data up to July 2020, the trends show that a high-seasonality has not occurred. Although July shows signs of a recovery, booking levels are below any of the 2019 months. 
 
 ![](images/screenshot-2020-08-18-at-21.21.52.png "Seasonality 2020")
-
-
 
 ## Bookings Quantity
 
@@ -48,9 +42,23 @@ To quantify the shifts above,  bookings are measured in a month-over-month overv
 
 The [bookings distribution](https://public.tableau.com/profile/rebeca.apostu#!/vizhome/TableauAnalytics-CovidThesis/BookingDistributionperMonth) per month looks at confirmed bookings and measures them by the month of the arrival date. 
 
-> In the timeframe March-July 2020, a decrease of 40 to 90% in booking activities is observed, compared to 2019. 
+> In the timeframe March-July 2020, a fluctuating decrease of 40 to 90% in booking activities is observed, compared to 2019. 
 
-![](images/screenshot-2020-08-19-at-13.15.20.png)
+![](images/screenshot-2020-08-19-at-13.15.20.png "Bookings Quantified")
+
+
+
+Apart from a drop in the number of bookings, a drop in the number of properties booked is noticeable, with a drop of 50%.  
+
+
+
+![](images/screenshot-2020-09-21-at-16.26.18.png "Booked properties per month")
+
+
+
+
+
+
 
 Emphasis, aka italics, with *asterisks* or *underscores*.
 
