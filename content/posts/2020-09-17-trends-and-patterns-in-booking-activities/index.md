@@ -8,7 +8,7 @@ hero: images/screenshot-2020-08-18-at-21.21.05.png
 
 To measure the effects of COVID-19 on Airbnb related booking activities, a comparative analysis was used to highlight trends pre and during the outbreak. The baseline for comparison is the whole of 2019 and statistics are drawn up to July 2020. 
 
-> Statistics over time are extracted in terms of *seasonality trends, quantity of monthly bookings, price fluctuations and booking duration.*
+Statistics over time are extracted in terms of *seasonality trends, quantity of monthly bookings, price fluctuations and booking duration.*
 
 The material resulted from the analysis is published on [Tableau Public](https://public.tableau.com/profile/rebeca.apostu#!/vizhome/TableauAnalytics-CovidThesis/Trendline-confirmedandcanceledbookings).
 
@@ -28,9 +28,13 @@ The [seasonality heat-map calendar](https://public.tableau.com/profile/rebeca.ap
 
 ![](images/screenshot-2020-08-18-at-21.21.05.png "2019 Seasonality ")
 
+It becomes visible that 2020 marks a shift from known seasonality trends - an unprecedented level of days with low (or no) bookings is recorded starting with March.  
+
+
+
 > 2020 booking levels seem to display a 'never-ending'  low season 
 
-It becomes visible that 2020 marks a shift from known seasonality trends - an unprecedented level of days with low (or no) bookings is recorded starting with March.  
+
 
 With data up to July 2020, the trends show that a high-seasonality has not occurred. Although July shows signs of a recovery, booking levels are below any of the 2019 months. 
 
