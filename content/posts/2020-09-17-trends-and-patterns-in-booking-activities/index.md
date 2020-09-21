@@ -2,6 +2,9 @@
 title: Trends and patterns in booking activities
 author: Rebeca Apostu
 date: 2020-09-17
+excerpt: Analysis on the effects of COVID-19 on Airbnb travel bookings in
+  Copenhagen. Based on a dataset containing 4069 booking records from 1st
+  January 2019 to end July 2020
 hero: images/screenshot-2020-08-18-at-21.21.05.png
 ---
 *This article is based on the MSc. Thesis: “Travel Disruption during COVID-19: An exploratory data analysis on Airbnb in Copenhagen”, written by Rebeca Apostu and Aurora Beres.* 
