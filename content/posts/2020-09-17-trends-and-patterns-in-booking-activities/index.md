@@ -78,13 +78,9 @@ Crossing the two timelines provided an overview on the behaviour tendency both i
 
 
 
+> In 2020, the two trendlines start to oppositely intersect - while the confirmed bookings follow a negative path, the cancellations follow a positive trend. 
+
 ![](images/screenshot-2020-09-21-at-17.11.56.png)
-
- 
-
-
-
-
 
 Emphasis, aka italics, with *asterisks* or *underscores*.
 
