@@ -4,33 +4,53 @@ author: Rebeca Apostu
 date: 2020-09-17
 hero: images/screenshot-2020-08-18-at-21.21.05.png
 ---
-***Work in progress***
+*This article is based on the MSc. Thesis: “Travel Disruption during COVID-19: An exploratory data analysis on Airbnb in Copenhagen”, written by Rebeca Apostu and Aurora Beres.* 
 
-Comparison of Airbnb related booking activities between 2019 and 2020 (up to end July), pre and during the COVID-19 outbreak. Paints a picture of connections over time in terms of *seasonality trends, monthly bookings quantified, average daily rates booked at, price fluctuations and booking duration.*
+To measure the effects of COVID-19 on Airbnb related booking activities, a comparative analysis was used to highlight trends pre and during the outbreak. The baseline for comparison is the whole of 2019 and statistics are drawn up to July 2020. 
 
-The material resulted from the analysis is published on [Tableau Public.](https://public.tableau.com/profile/rebeca.apostu#!/vizhome/TableauAnalytics-CovidThesis/SeasonalityTrends)
+> Statistics over time are extracted in terms of *seasonality trends, quantity of monthly bookings, price fluctuations and booking duration.*
 
-
+The material resulted from the analysis is published on [Tableau Public](https://public.tableau.com/profile/rebeca.apostu#!/vizhome/TableauAnalytics-CovidThesis/Trendline-confirmedandcanceledbookings).
 
 # Time Series Approach
 
+Broken-down into three main elements, the analysis employed time-stamped data to asses changes over time:
+
+* seasonality and calendar related movements
+* trends and patterns over time, to observe the long term direction
+* outliers and sudden shifts in the data, by spotting irregularities 
 
 
-# H1
 
-It is recommended to NOT use H1s as it is reserved for the article heading. Any H1 is set as an H2.
+### Seasonal Changes
 
-## H2
+The [seasonality heat-map calendar](https://public.tableau.com/profile/rebeca.apostu#!/vizhome/TableauAnalytics-CovidThesis/SeasonalityTrends) is assembled on a 8-point colour-code scale, measured by the number of confirmed bookings in a day. Green refers to a higher number of bookings, while red measures the opposite. 
 
-### H3
+> The 2019 seasonality shows a regular high season from October to March included, and high season from April to September. 
 
-#### H4
+![](images/screenshot-2020-08-18-at-21.21.05.png "2019 Seasonality ")
 
-##### H5
+> 2020 booking levels seem to display a 'never-ending'  low season 
 
-###### H6
+It becomes visible that 2020 marks a shift from known seasonality trends - an unprecedented level of days with low (or no) bookings is recorded starting with March.  
 
-## Emphasis
+
+
+With data up to July 2020, the trends show that a high-seasonality has not occurred. Although July shows signs of a recovery, booking levels are below any of the 2019 months. 
+
+![](images/screenshot-2020-08-18-at-21.21.52.png "Seasonality 2020")
+
+
+
+## Bookings Quantity
+
+To quantify the shifts above,  bookings are measured in a month-over-month overview. 
+
+The [bookings distribution](https://public.tableau.com/profile/rebeca.apostu#!/vizhome/TableauAnalytics-CovidThesis/BookingDistributionperMonth) per month looks at confirmed bookings and measures them by the month of the arrival date. 
+
+> In the timeframe March-July 2020, a decrease of 40 to 90% in booking activities is observed, compared to 2019. 
+
+![](images/screenshot-2020-08-19-at-13.15.20.png)
 
 Emphasis, aka italics, with *asterisks* or *underscores*.
 
