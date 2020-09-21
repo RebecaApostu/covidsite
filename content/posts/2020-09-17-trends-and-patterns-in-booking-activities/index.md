@@ -47,7 +47,7 @@ The [bookings distribution](https://public.tableau.com/profile/rebeca.apostu#!/v
 
 > In the timeframe March-July 2020, a fluctuating decrease of 50 to 90% in booking activities is observed, compared to 2019. 
 
-![](images/screenshot-2020-08-19-at-13.15.20.png "Bookings Quantified")
+![](images/screenshot-2020-09-21-at-21.04.40.png "Bookings Quantified")
 
 Apart from a drop in the number of bookings, a drop in the number of properties booked is noticeable, with a drop of 50%.  
 
