@@ -1,6 +1,6 @@
 ---
 title: News Timeline
-author: Rebeca Apostu, Aurora Beres
+author: Rebeca Apostu
 date: 2020-09-15
 excerpt: Interactive timeline showcasing international news stories and the
   effect on cancellations of Airbnb bookings in Copenhagen.
